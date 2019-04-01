@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
+        <h1>AL TOKE!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <img src={imgPortada} className="App-image" alt="imagen portada" />
         <NavBar/>
